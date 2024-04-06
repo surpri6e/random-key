@@ -1,0 +1,33 @@
+{
+  "name": "random-key",
+  "version": "1.0.0",
+  "description": "library for create random key",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surpri6e/random-key.git"
+  },
+  "keywords": [
+    "key",
+    "random",
+    "ts",
+    "js",
+    "random-string",
+    "string",
+    "random-key"
+  ],
+  "author": "surpri6e",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surpri6e/random-key/issues"
+  },
+  "homepage": "https://github.com/surpri6e/random-key#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.4"
+  }
+}
