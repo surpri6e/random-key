@@ -1,3 +1,5 @@
-**/*.ts
-test/
 node_modules/
+
+index.ts
+src/types.ts
+src/utils/getRandomInt.ts

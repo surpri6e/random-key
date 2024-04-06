@@ -1,2 +1,5 @@
-node_modules
-src/*.js
+index.js
+*.js
+*.d.ts
+
+node_modules/
