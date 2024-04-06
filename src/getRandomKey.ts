@@ -1,5 +1,5 @@
 import { TComponentsOfKey } from './types';
-import { getRandomNumber } from './utils/getRandomInt';
+import { getRandomNumber } from './utils/getRandomNumber';
 
 type TGetRandomKeySignature = (length: number, components: TComponentsOfKey) => string;
 
